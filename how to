@@ -1,0 +1,14 @@
+
+
+
+host:~$ nano  bash.sh
+     [paste the all in one setup bash script into nano]
+           hit control + O  then  y / enter to save
+            hit control + x     to exit
+   then type
+host:~$       chmod +x  bash.sh
+host:~$         ./bash.sh
+              should display this....
+
+=== PRESIDENTIAL ALL-IN-ONE INTELLIGENCE STACK INSTALL & DEPLOY ===
+[+] Updating system and installing base tools...
